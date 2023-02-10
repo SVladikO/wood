@@ -476,9 +476,6 @@
 .fa-icon-twitter-square:before {
   content: "\f081";
 }
-.fa-icon-facebook-square:before {
-  content: "\f082";
-}
 .fa-icon-camera-retro:before {
   content: "\f083";
 }
@@ -548,6 +545,9 @@
 }
 .fa-icon-facebook:before {
   content: "\f09a";
+}
+.fa-icon-viber:before {
+  content: "\f409"
 }
 .fa-icon-github:before {
   content: "\f09b";

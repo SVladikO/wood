@@ -1,0 +1,25 @@
+.logos-header-position {
+    position: relative;
+    top: -27px;
+    left: -64px;
+}
+.logos {
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+    font-size: 28px;
+    padding: 0px 0 0 72px;
+}
+.logos > div:first-child {
+    color: #ca8e3e;
+    height: 28px;
+}
+.logos > div:last-child {
+    color: #fff;
+    height: 28px;
+}
+
+.media-icon {
+    width: 28px;
+    height: 28px;
+}

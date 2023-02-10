@@ -693,10 +693,6 @@
     content: "\f409"
 }
 
-.fa-facebook-square:before {
-    content: "\f082"
-}
-
 .fa-camera-retro:before {
     content: "\f083"
 }
@@ -785,8 +781,12 @@
     content: "\f099"
 }
 
-.fa-facebook-f:before, .fa-facebook:before {
+.fa-facebook:before {
     content: "\f09a"
+}
+
+.fa-viber:before {
+    content: "\f409"
 }
 
 .fa-github:before {
@@ -2239,10 +2239,6 @@
 
 .fa-genderless:before {
     content: "\f22d"
-}
-
-.fa-facebook-official:before {
-    content: "\f230"
 }
 
 .fa-pinterest-p:before {
